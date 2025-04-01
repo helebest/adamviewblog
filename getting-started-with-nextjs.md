@@ -55,6 +55,7 @@ export default function About() {
 
 ## Recommended Video
 - [Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
+- ![alt](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ## Conclusion
 
