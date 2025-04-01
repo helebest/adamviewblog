@@ -1,6 +1,6 @@
 ---
 title: Getting Started with Next.js
-date: 2023-06-15
+date: 2025-03-31
 category: Development
 excerpt: Learn the basics of Next.js and how to create your first application.
 ---
