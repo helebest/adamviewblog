@@ -1,6 +1,6 @@
 ---
-title: Temperature Conversion Tool: 10°C to 50°F
-date: 2025-04-02
+title: Temperature Conversion Tool - 10°C to 50°F
+date: 2025-04-01
 category: Tools
 excerpt: Learn how to use our temperature conversion tool to convert 10°C to 50°F.
 ---
