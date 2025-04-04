@@ -7,7 +7,9 @@ excerpt: Discover how to transform your home into a fat-burning gym using simple
 
 # Home Fitness Upgrade: Crafting an Effective Fat-Burning Workout with Everyday Resources
 
-For many, hitting the gym isn’t always an option. Between tight schedules and financial constraints, finding time or money for a membership can feel like a hurdle. Luckily, home fitness offers a practical and affordable solution. You don’t need fancy machines or a personal trainer to get in shape—your living room can become your ultimate workout space. In this blog post, we’ll explore how to use everyday resources like a yoga mat, resistance bands, or even just your own body weight to design an efficient fat-burning workout plan. With a clear exercise routine and step-by-step guidance, you’ll be on your way to burning fat and sculpting your body right at home.
+For many, hitting the gym isn’t always an option. Between tight schedules and financial constraints, finding time or money for a membership can feel like a hurdle. Luckily, home fitness offers a practical and affordable solution. You don’t need fancy machines or a personal trainer to get in shape—your living room can become your ultimate workout space. In this blog post, we’ll explore how to use everyday resources like a yoga mat, resistance bands, or even just your own body weight to design an efficient fat-burning workout plan. With a clear exercise routine and step-by-step guidance, you’ll be on your way to burning fat and sculpting your body right at home. 
+
+![Home Fitness Upgrade](./home-fitness-upgrade/main.png)
 
 ## Why Home Fitness Works
 
