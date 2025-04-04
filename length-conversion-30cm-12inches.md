@@ -2,10 +2,10 @@
 title: Length Conversion Tool - Converting 30 cm to 11.81 inches
 date: 2025-04-04
 category: Tools
-excerpt: Learn how to use our length conversion tool to easily convert 30 centimeters to inches for your everyday measurement needs.
+excerpt: Learn how to use our length conversion tool to easily convert centimeters to inches for your everyday measurement needs.
 ---
 
-# Length Conversion Tool: Converting 30cm to Inches
+# Length Conversion Tool: Converting centimeters to inches
 
 Need to convert between metric and imperial length measurements? Our length conversion tool makes it simple to convert centimeters to inches and vice versa. In this guide, we'll show you how to convert 30 centimeters to inches.
 
