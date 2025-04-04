@@ -1,6 +1,6 @@
 ---
 title: BMI Calculator - Understanding Your Health Numbers
-date: 2025-04-10
+date: 2025-04-04
 category: Tools
 excerpt: Learn how to use our BMI calculator to understand your body mass index and what it means for your health.
 ---
