@@ -53,6 +53,10 @@ export default function About() {
 }
 ```
 
+## Recommended Video
+- [Next.js in 100 Seconds](https://www.youtube.com/watch?v=Sklc_fQBmcs)
+- ![alt](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
 ## Conclusion
 
 Next.js provides a powerful and flexible framework for building React applications. With its built-in features for server-side rendering, static site generation, and more, it's a great choice for developers looking to build high-performance web applications.
