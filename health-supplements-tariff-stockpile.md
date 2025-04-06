@@ -53,7 +53,7 @@ Here’s a curated list of must-have imported health supplements to grab before 
 
 ## Why Act Now?
 
-Tariffs don’t just raise prices; they can disrupt supply chains. Importers may struggle to adjust, leading to shortages of popular supplements. By stockpiling now, you secure your stash and sidestep potential gaps in availability. Plus, with SEO-friendly keywords like “imported health supplements,” “U.S. tariffs 2025,” and “stockpile vitamins,” this advice is designed to reach wellness warriors like you searching for solutions.
+Tariffs don’t just raise prices; they can disrupt supply chains. Importers may struggle to adjust, leading to shortages of popular supplements. By stockpiling now, you secure your stash and sidestep potential gaps in availability.
 
 ## Final Thoughts
 
