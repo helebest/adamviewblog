@@ -5,7 +5,7 @@ category: Tools
 excerpt: Half genius, half 'Wait, what was I doing?' — this hilarious and surprisingly practical notebook is the perfect gift for forgetful friends, aging millennials, or anyone battling brain fog with a sense of humor. Jot down your brilliance before it disappears!
 ---
 
-# Notes from Forgetful Genius - The Perfect Funny Gift Journal for Seniors and Overbooked Geniuses
+# Notes from Forgetful Genius: The Perfect Funny Gift Journal for Seniors and Overbooked Geniuses
 
 Ever walked into a room with a brilliant idea only to stand there wondering, *“Wait… what was I doing?”* If that sounds painfully familiar, congratulations—you’re among the elite club of forgetful geniuses. And there's now a notebook that gets you. Say hello to **Notes from Forgetful Genius: Half Genius, Half ‘Wait, What Was I Doing?’**, a hilarious yet practical gift journal that might just save your best ideas from disappearing into the mental void.
 
